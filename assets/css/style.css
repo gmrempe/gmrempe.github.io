@@ -1065,6 +1065,8 @@ a:after {
 #portfolio-content .col-md-3 {
     padding: 0;
     width: 25%;
+    max-height: 163px;
+    overflow: hidden;
 }
 
 #portfolio-carousel {
